@@ -43,6 +43,7 @@ Live Application (Port 80)
 
 ```
 
+<img width="1200" height="900" alt="cicd-architecture" src="https://github.com/user-attachments/assets/2504199d-c7ce-42d4-9c6f-30c7da0d3eeb" />
 
 ---
 
